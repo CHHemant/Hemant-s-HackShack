@@ -12,7 +12,7 @@ Status: `Learning...` | Mood: `Hacking Stuff 😈`
 
 - 🧑‍🎓 **AI student** (2nd year) at University of "404 Not Found"
 - 🛡️ **Cybersecurity fanboy** (I break things for fun, then fix them for snacks)
-- 🐍 Fluent in **Python** & **JavaScript**
+- 🐍 Fluent in **Python** & **JavaScript** (and whatever “twailand” is… still decoding)
 - 🤝 **Collaboration mode:** ALWAYS ON
 - 🦸‍♂️ Dream: Build an AI that writes my assignments
 
@@ -24,7 +24,10 @@ Status: `Learning...` | Mood: `Hacking Stuff 😈`
 | ------------- |---------------|-----------------------------|
 | Python        | 🔥🔥🔥🔥         | My snake never bites!       |
 | JavaScript    | 🤯🤯🤯           | Can turn coffee into code   |
+| Twailand*     | 🚀             | I’m still figuring this out |
 | Terminal      | 🧙‍♂️           | sudo rm -rf / (just kidding)|
+
+_*Twailand may or may not be a typo. Or is it?_
 
 ---
 
