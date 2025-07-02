@@ -1,78 +1,39 @@
-# 🎉 WELCOME TO HEMANT'S DIGITAL MADHOUSE! 🎉
+# 🚀 Welcome to the Mad Lab of Hemant! 🤖💻
 
-![Matrix Cat](https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif)
+![Hacker Cat](https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif)
 
----
+## 👋 Hey, I’m Hemant — The AI Adventurer
 
-## 👾 About Me: The AI Hacker in Training
-
-Hi! I’m **Hemant**—currently running on  
-`BTech AI v2.0 [Year 2 Edition]`  
-Status: `Learning...` | Mood: `Hacking Stuff 😈`
-
-- 🧑‍🎓 **AI student** (2nd year) at University of "404 Not Found"
-- 🛡️ **Cybersecurity fanboy** (I break things for fun, then fix them for snacks)
-- 🐍 Fluent in **Python** & **JavaScript** (and whatever “twailand” is… still decoding)
-- 🤝 **Collaboration mode:** ALWAYS ON
-- 🦸‍♂️ Dream: Build an AI that writes my assignments
+- 🧑‍🎓 **AI student** in BTech (2nd year, still surviving exams!)
+- 🕵️ Into **cybersecurity** — I break stuff (ethically, promise!)
+- 🐍 Speaks in Python and JavaScript (and learning more every day)
+- 🇹🇭 “Twailand” is on my tech list — always exploring new lands (and languages!)
+- 🤝 Loves to **collaborate** — let’s build crazy stuff together!
 
 ---
 
-## ⚡ Tech Stack (a.k.a. My Superpowers)
+## 🛠️ My Toolbox
 
-| Language      | Level          | Fun Fact                    |
-| ------------- |---------------|-----------------------------|
-| Python        | 🔥🔥🔥🔥         | My snake never bites!       |
-| JavaScript    | 🤯🤯🤯           | Can turn coffee into code   |
-| Twailand*     | 🚀             | I’m still figuring this out |
-| Terminal      | 🧙‍♂️           | sudo rm -rf / (just kidding)|
-
-_*Twailand may or may not be a typo. Or is it?_
+- **Languages:** Python, JavaScript, (learning Thai, and more!)
+- **Domains:** AI, Machine Learning, Cybersecurity, Web Dev
+- **Superpower:** Finding bugs in code at 2am
 
 ---
 
-## 🤖 My Life Algorithm
+## 🎉 Fun Facts
 
-```python
-while True:
-    try:
-        learn()
-        code()
-        break_things(purpose="security")
-        collaborate()
-        drink("coffee")
-    except Exam:
-        panic()
-        retry()
-```
+- I think semicolons are optional, but coffee isn’t ☕
+- My idea of a good time: debugging with friends on Discord
+- I believe every error message is just the universe trying to communicate
 
 ---
 
-## 🏆 Achievements Unlocked
+## 👾 Let’s Connect!
 
-- [x] Survived 2 years of BTech (AI mode)
-- [x] Hacked my own to-do list (and lost it)
-- [ ] Built a robot army (in progress)
-- [ ] Got 8 hours of sleep (maybe next semester)
-
----
-
-## 🕹️ Fun Facts
-
-- 🦆 Debugs code by talking to a rubber duck (he’s the real MVP)
-- 🤖 Writes code that sometimes writes back
-- 🎮 Plays CTFs for fun (and pizza)
-- 🧙‍♂️ Can recite error messages backwards
+- [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&style=flat-square)](https://www.linkedin.com/in/CHHemant/)
+- [![Twitter](https://img.shields.io/badge/-Twitter-blue?logo=twitter&style=flat-square)](https://twitter.com/crazyhemant)
+- Or just drop a collab request — I rarely bite! 🐍
 
 ---
 
-## 🚀 Let's Build Something Weird Together!
-
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&style=flat-square)](https://www.linkedin.com/in/CHHemant/)
-[![Twitter](https://img.shields.io/badge/-Twitter-blue?logo=twitter&style=flat-square)](https://twitter.com/crazyhemant)
-
----
-
-> “If you can’t find the bug, become the bug!” – Hemant 🤓
-
-![Glitch](https://media.giphy.com/media/3ohc0WzQ3XfTgEJpYQ/giphy.gif)
+> “Normal is boring. Be curious, be kind, and always hack for good!” – Hemant 😜
